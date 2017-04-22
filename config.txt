@@ -1,0 +1,10 @@
+[Info]
+name =
+
+[Audio]
+silent volume =
+speaking volume = 
+
+[Ai]
+name =
+
